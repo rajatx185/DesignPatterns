@@ -5,7 +5,6 @@ https://www.geeksforgeeks.org/name-mangling-in-python/#:~:text=With%20the%20help
 
 """
 
-
 class Base:
     def __init__(self) -> None:
         # protected member
